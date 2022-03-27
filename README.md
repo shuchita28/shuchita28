@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://miro.medium.com/max/481/1*cxfqR8NAj8HGal8CVOZ7hg.png" alt="pandas" width="70" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://miro.medium.com/max/481/1*cxfqR8NAj8HGal8CVOZ7hg.png" alt="pandas" width="80" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" alt="matplotlib" width="70" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" alt="seaborn" width="50" height="40"/> </a> 
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
@@ -35,8 +35,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" alt="tableau" width="70" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives.png" alt="aws" width="65" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuchita28&show_icons=true&locale=en&layout=compact" alt="shuchitamishra" /></p>
