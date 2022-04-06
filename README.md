@@ -2,9 +2,10 @@
 shuchita28/shuchita28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Shuchita</h1>
-<h3 align="center">Data Scientist | Analyst | Explorer </h3>
 
+<img src="https://github.com/shuchita28/shuchita28/blob/main/header.png">
+
+<h3 align="center">Data Scientist | Analyst | Explorer </h3>
 
 🌱 I’m currently learning **Neural Networks and CNN**
 
