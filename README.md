@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 🌱 I’m currently learning **Neural Networks and CNN**
 
-💬 Ask me about **Data Visualization, analysis and modelinge**
+💬 Ask me about **Data Visualization, analysis and modeling**
 
 📫 How to reach me **mishra.shu@northeastern.edu**
 
